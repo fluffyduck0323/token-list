@@ -184615,6 +184615,20 @@
       "tags": [
         "social-token"
       ]
+    },
+{
+      "chainId": 101,
+      "address": "BCj3AW1ZqwV4obGxbebfh5Yj1Hbow9L1qm3edMkU3CQW",
+      "symbol": "KARMA",
+      "name": "$KARMA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/fluffyduck0323/Karma-logo/main/final.png",
+      "tags": ["meme", "philanthropy"],
+      "extensions": {
+        "website": "https://yourwebsite.com",
+        "twitter": "https://twitter.com/yourkarmahandle",
+        "description": "$KARMA — Do Good. Get Rich. Repeat.\n\n$KARMA is a zero-tax Solana-based meme token that fuses viral crypto culture with community-driven philanthropy. With 3% of its total supply securely held in a public Community Wallet, $KARMA empowers holders to vote monthly on charitable causes to receive donations — making giving back simple, transparent, and fun.\n\nKey Features:\n• 0% transaction tax\n• 3% of supply locked for monthly nonprofit donations\n• 2.5% to a Marketing Wallet\n• Fully transparent public wallets\n• No presale, no team tax — community-first from day one\n\nJoin the $KARMA movement and help build a meme coin that’s changing lives, one donation at a time."
+      }
     }
   ],
   "version": {
@@ -184623,3 +184637,4 @@
     "patch": 3
   }
 }
+ 
