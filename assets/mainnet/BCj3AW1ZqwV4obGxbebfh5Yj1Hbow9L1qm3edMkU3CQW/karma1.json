@@ -1,0 +1,13 @@
+{
+  "name": "$KARMA",
+  "symbol": "KARMA",
+  "description": "Do good. Get rich. Repeat. $KARMA is a Solana-based micro-philanthropy token that funds causes like clean water and animal shelters through community votes.",
+  "image": "https://w3s.link/ipfs/bafybeigzi22f34rmv243n7hcm72pfg6zfkv5us37boxbohwx5fcwmwms3y/final.png",
+  "decimals": 9,
+  "extensions": {
+    "website": "",
+    "twitter": "",
+    "github": ""
+  }
+}
+
